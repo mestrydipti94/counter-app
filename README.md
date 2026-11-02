@@ -15,7 +15,6 @@ A simple Counter App built using HTML, CSS, and JavaScript as a practice project
 ## Concepts Practiced
 - DOM Manipulation
 - Event Listeners
-- Functions
 - Variables
 - Click Events
 
