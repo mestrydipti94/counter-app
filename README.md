@@ -1,6 +1,23 @@
-project features:
-1. Increment counter.
-2. Decrement counter.
-3. Reset counter to zero.
-4. Dynamic counter color changes.
-5. Responsive design.
+# Counter App
+
+A simple Counter App built using HTML, CSS, and JavaScript as a practice project.
+
+## Features
+- Increment counter
+- Decrement counter
+- Reset counter to zero
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## Concepts Practiced
+- DOM Manipulation
+- Event Listeners
+- Functions
+- Variables
+- Click Events
+
+## Purpose
+Created as a beginner practice project to understand JavaScript fundamentals and DOM manipulation.
